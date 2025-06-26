@@ -10,7 +10,7 @@ Each day I’ll publish a new project to sharpen my skills and explore creative 
 1. **[SysMon9 – Real-time System Monitor](https://github.com/thenabinamallik/Sysmon9)**  
    A desktop app to monitor CPU, RAM, GPU, and network usage with live charts and modern UI.
 
-2. ***[FocusFlow9 – Productivity App](https://github.com/thenabinamallik/focusflow9)***
+2. ***[FocusFlow9 – Productivity App](https://github.com/thenabinamallik/focusflow9)**
    A clean React + Vite Pomodoro timer with session tracking and sound cues for better focus.
    
 4. _Coming soon..._
